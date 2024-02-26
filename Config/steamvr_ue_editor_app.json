@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.first-person-story-adventure-template-13942748.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/OneDrive/Work/UE Marketplace/FPStorsAdvTemp/ProjectFiles/4.25/StoryAdvTemp_v2.1.3/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "First Person Story Adventure Template-13942748 [UE Editor]"
+				}
+			}
+		}
+	]
+}
