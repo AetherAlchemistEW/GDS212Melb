@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{D7088D98-48E9-84FC-E2B7-6D974324396D}",
+	"EngineAssociation": "{879594A9-4FA5-B488-B625-82BEA5A01B37}",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"AllDesktop",
 		"HTML5",
